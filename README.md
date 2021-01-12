@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ ![alt text](https://raw.githubusercontent.com/FernelyVRS/react-firebase-crud/master/screenshot.gif) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
